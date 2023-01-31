@@ -36,7 +36,7 @@
 #include <cstddef>
 
 int main() {
-    constexpr size_t ARRAY_SIZE = 8;
+    constexpr size_t ARRAY_SIZE = 10;
     int x = 42;
     int numbers[ARRAY_SIZE];
     int y = 54;
